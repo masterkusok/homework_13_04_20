@@ -1,0 +1,10 @@
+D:\C#\learnink\bin\Debug\learnink.exe.config
+D:\C#\learnink\bin\Debug\learnink.exe
+D:\C#\learnink\bin\Debug\learnink.pdb
+D:\C#\learnink\obj\Debug\learnink.csprojAssemblyReference.cache
+D:\C#\learnink\obj\Debug\learnink.Properties.Resources.resources
+D:\C#\learnink\obj\Debug\learnink.csproj.GenerateResource.cache
+D:\C#\learnink\obj\Debug\learnink.exe
+D:\C#\learnink\obj\Debug\learnink.pdb
+D:\C#\learnink\obj\Debug\learnink.login.resources
+D:\C#\learnink\obj\Debug\learnink.register.resources
